@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.taptag.admin.R;
-import com.taptag.admin.list.AbstractCustomAdapter;
+import com.taptag.beta.list.AbstractCustomAdapter;
 
 public class AlphabeticalOrderAdapter extends AbstractCustomAdapter<Order> {
 
